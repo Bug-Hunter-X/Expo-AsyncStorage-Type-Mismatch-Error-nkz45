@@ -1,0 +1,2 @@
+# Expo AsyncStorage Type Mismatch
+This repository demonstrates a common error encountered when using AsyncStorage in Expo applications: type mismatches.  The `bug.js` file shows the incorrect usage, while `bugSolution.js` provides the corrected version.  This error can lead to unexpected application behavior or crashes if not handled correctly.  The issue stems from not properly managing the type of data stored and retrieved from AsyncStorage.  Always ensure your data is of the expected type when retrieving it. This repo serves as a guide to prevent and resolve such issues.
